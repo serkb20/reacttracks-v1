@@ -1,0 +1,46 @@
+
+.search{
+	position: relative;
+	top: 6em;
+}
+
+.register-text{
+	margin-top: 3em;
+}
+
+.audio{
+	width: 30em;
+}
+
+.search{
+	position: relative;
+	top: 3em;
+}
+
+.music{
+	position: relative;
+	top: 2em;
+	width: 60em;
+	left: 7em;
+	border: 1px dotted black;
+	border-bottom: none;
+	border-radius: 5px;
+}
+
+.music-2{
+	position: relative;
+	left: 7em;
+	width: 60em;
+}
+
+.list{
+	position: relative;
+	top: 3em;
+	height: auto;
+}
+
+.list-2{
+	position: relative;
+	top: 3em;
+	height: auto;
+}
